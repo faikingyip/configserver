@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to codefrantic cards service (LOCAL)"
+  contactDetails:
+    name: "Fai Yip - Admin"
+    email: "faiyip@codefrantic.com"
+  onCallSupport:
+    - 07830123456
+    - 07946321321

@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to codefrantic loans service"
+  contactDetails:
+    name: "Fai Yip - Admin"
+    email: "faiyip@codefrantic.com"
+  onCallSupport:
+    - 07830123456
+    - 07946321321
