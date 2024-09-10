@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to codefrantic cards service (LOCALLC)"
+  message: "Welcome to codefrantic cards service (LOCAL)"
   contactDetails:
     name: "Fai Yip - Admin"
     email: "faiyip@codefrantic.com"
