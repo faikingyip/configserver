@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to codefrantic loans service (LOCAL)"
+  message: "Welcome to codefrantic loans service (LOCAL LOANNNN)"
   contactDetails:
     name: "Fai Yip - Admin"
     email: "faiyip@codefrantic.com"
